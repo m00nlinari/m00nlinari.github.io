@@ -1,4 +1,4 @@
-# m00nlinari.github.io
-A space to share creations and tutorials to help people.
+# Sharing is multiplying
+A space to share creations, tutorials and other stuff to help people.
 
 # [Presentations](https://m00nlinari.github.io/presentations/)
